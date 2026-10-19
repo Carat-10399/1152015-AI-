@@ -13,7 +13,7 @@
 ## 3. 完整工作流截圖
 ![alt text](images/)
 ## 4. 顯示使用的正反提示詞
-**正提示詞：** Light purple clothing, Long brown curly hair, smile
+**正提示詞：** 頭髮改成紅色，臉上要化妝，有眼影口紅
 **反提示詞：** lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry
 ## 5. 個人心得
 初次體驗ComfyUI真的被它難到了。加上電腦只能跑CPU，導致每生成一張圖就要等好幾個小時，非常考驗耐心。
