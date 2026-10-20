@@ -9,9 +9,9 @@
 ## 1. 原圖
 ![alt text](images/原圖.jpg)
 ## 2. 生成的圖
-![alt text](images/生成的圖.jpg)
+![alt text](images/生成的圖.png)
 ## 3. 完整工作流截圖
-![alt text](images/流程.jpg)
+![alt text](images/流程.png)
 ## 4. 顯示使用的正反提示詞
 **正提示詞：** 頭髮改成紅色，臉上要化妝，有眼影口紅
 **反提示詞：** lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry
