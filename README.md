@@ -16,6 +16,6 @@
 **正提示詞：** 頭髮改成紅色，臉上要化妝，有眼影口紅
 **反提示詞：** lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry
 ## 5. 個人心得
-初次體驗ComfyUI真的被它難到了。加上電腦只能跑CPU，導致圖片無法生成。
-實際操作時，畫面上一直跳出偵測到錯誤，我完全看不懂、也不知道怎麼改，因此詢問了身邊的同學，發現大部分都沒有遇到我這樣的問題，因此打算隔日到學校跟朋友借筆電來做。
-所以目前還沒有成品，也有傳mail詢問老師，希望能得到解答，謝謝老師。
+初次體驗ComfyUI真的被它難到了。加上電腦只能跑CPU，導致每生成一張圖就要等好幾個小時，非常考驗耐心。
+實際操作時，畫面上一直跳出偵測到錯誤，我完全看不懂、也不知道該怎麼改，卡在電腦前非常苦惱，最後去跟同學借筆電才成功做出。後來也慢慢摸索出竅門，發現提示詞用英文比中文精準。
+這次的實作讓我大開眼界，原來AI做圖不只是表面上打打字那麼簡單，背後的提示詞、步驟數和各個參數都要配合。
